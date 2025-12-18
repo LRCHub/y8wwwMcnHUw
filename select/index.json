@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Hexenjagd",
+  "base_artist": "ELFENSJoN",
+  "createdAt": "2025-12-18T12:34:33.054836Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hexenjagd",
+      "artist": "Feuerschwanz",
+      "has_synced": false,
+      "path": "select/01_Hexenjagd_Feuerschwanz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hexenjagd",
+      "artist": "Feuerschwanz",
+      "has_synced": true,
+      "path": "select/02_Hexenjagd_Feuerschwanz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hexenjagd - Live",
+      "artist": "Feuerschwanz",
+      "has_synced": false,
+      "path": "select/03_Hexenjagd_-_Live_Feuerschwanz.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hexenjagd",
+      "artist": "Unheilig",
+      "has_synced": true,
+      "path": "select/04_Hexenjagd_Unheilig.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hexenjagd",
+      "artist": "E Nomine",
+      "has_synced": true,
+      "path": "select/05_Hexenjagd_E_Nomine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hexenjagd",
+      "artist": "Broilers",
+      "has_synced": false,
+      "path": "select/06_Hexenjagd_Broilers.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hexenjagd",
+      "artist": "Null Positiv",
+      "has_synced": false,
+      "path": "select/07_Hexenjagd_Null_Positiv.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hexenjagd",
+      "artist": "Unheilig",
+      "has_synced": false,
+      "path": "select/08_Hexenjagd_Unheilig.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hexenjagd",
+      "artist": "Feuerschwanz",
+      "has_synced": true,
+      "path": "select/09_Hexenjagd_Feuerschwanz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hexenjagd",
+      "artist": "Weimar",
+      "has_synced": true,
+      "path": "select/10_Hexenjagd_Weimar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hexenjagd",
+      "artist": "ELFENSJóN",
+      "has_synced": true,
+      "path": "select/11_Hexenjagd_ELFENSJóN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hexenjagd",
+      "artist": "Broilers",
+      "has_synced": false,
+      "path": "select/12_Hexenjagd_Broilers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hexenjagd",
+      "artist": "Unheilig",
+      "has_synced": true,
+      "path": "select/13_Hexenjagd_Unheilig.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hexenjagd",
+      "artist": "Feuerschwanz",
+      "has_synced": true,
+      "path": "select/14_Hexenjagd_Feuerschwanz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "05 - Unheilig - Hexenjagd",
+      "artist": "Unheilig",
+      "has_synced": false,
+      "path": "select/15_05_-_Unheilig_-_Hexenjagd_Unheilig.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hexenjagd / REINCARNATE Ver",
+      "artist": "ELFENSJóN",
+      "has_synced": false,
+      "path": "select/pl_01_Hexenjagd___REINCARNATE_Ver_ELFENSJóN.txt"
+    }
+  ]
+}
